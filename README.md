@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[React JS]("")**
 - 🌱 I’m currently learning **[React.js]()**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://isnt-sagarbhuva43-awesome.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://sagarbhuva43.netlify.app/)**
 - 📫 How to reach me **bhuvasagar632@gmail.com**
 - 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/sagar-bhuva-79a0a4127/)**
 - ⚡ Fun fact **The Firefox logo isn’t a fox… it’s a red panda!**
